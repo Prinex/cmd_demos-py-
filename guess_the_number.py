@@ -1,6 +1,8 @@
 import time
 import random
 import os
+# I have used the time library for simulating the the 'process' of a game
+# I have used os library for cleaning the window 
 
 # Starting / Exiting the game
 # initializing the random number and the number of tries
