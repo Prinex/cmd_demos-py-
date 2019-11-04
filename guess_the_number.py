@@ -30,7 +30,7 @@ def game():
 
 	return None
 
-# Initializing the random number
+# Initializing the game
 def initialize(tries):
 	print("The current number of tries: " + str(tries))
 	myNumber = int(input("Enter a number between [1, 100]: "))
