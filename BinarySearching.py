@@ -1,5 +1,7 @@
 def binary_searching(arr, val):
-	# from the mid index: if the value demanded is bigger 
+	# from the mid index: if the value demanded is bigger
+	# if the value is bigger than the middle element then we check from the left side
+	# else check from the right side
 	start = 0
 	stop = len(arr) - 1
 
@@ -17,7 +19,7 @@ def binary_searching(arr, val):
 
 
 def main():
-	# First we sort the list
+	# First we sort the list in ascending order
 	array = [11, 7, -3, 86, 32, 16, -19] # -19, -3, 7, 11, 16, 32, 86
 	array.sort()
 
