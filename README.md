@@ -1,1 +1,1 @@
-This is a repository for short cmd games
+Short programscmd games
