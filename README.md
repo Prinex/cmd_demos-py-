@@ -1,1 +1,1 @@
-Short cmd programs
+cmd demos
